@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to hide certain columns in the Timeline view
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e532/)**
+<!-- run online end -->
 
 
 <p>Problem:</p><p>I'd like to hide columns for certain (non-working) hours in the TimelineView. How can I accomplish this?</p><p>Solution:</p><p>You can implement a custom time scale. It enables you to hide unneeded time periods.<br />
